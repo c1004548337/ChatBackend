@@ -1,0 +1,9 @@
+target/
+.mvn/
+.vscode/
+.idea/
+*.iml
+*.log
+.DS_Store
+apache-maven-*.tar.gz
+data/
